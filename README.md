@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _Ryan Abouchedid_
 
-**Due date:** _\<date\>_
+**Due date:** _2-4-2016_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_I have to download this file, edit the Read Me with atom, and upload it back into Github._
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_I learned how to download files off Github, edit them with Atom, and reupload them to Github._
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Ryan Abouchedid_
